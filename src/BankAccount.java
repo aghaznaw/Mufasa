@@ -8,6 +8,7 @@ public class BankAccount {
 		
 		this.accountNumber = accountNumber;
 		this.accountBalance = accountBalance;
+		
 	}
 	
 	public int getAccountNumber() {
